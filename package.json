@@ -1,0 +1,25 @@
+{
+  "name": "alternative-true",
+  "version": "1.0.0",
+  "description": "When false isn't true enough.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alternative",
+    "true",
+    "facts",
+    "kellyanne",
+    "conway",
+    "trump"
+  ],
+  "repository": {
+    "url": "https://github.com/donavon/alternative-true.git",
+    "type": "git"
+  },
+
+  "repository": "git@github.com:donavon/alternative-true.git",
+  "author": "Donavon West",
+  "license": "MIT"
+}
