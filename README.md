@@ -5,7 +5,7 @@
 Welcome to coding in Trump's America.
 Here is an example use case:
 
-```
+```js
 import { alternativeTrue } from 'alternative-true';
 
 const historicalEvent = 'Bowling Green Massacre';
