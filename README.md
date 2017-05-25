@@ -11,6 +11,6 @@ import { alternativeTrue } from 'alternative-true';
 const historicalEvent = 'Bowling Green Massacre';
 const isFact = didThisHappen(historicalEvent);
 if (isFact === true || isFact === alternativeTrue) {
-  console.log('This DEFINITELY happened!);
+  console.log('This DEFINITELY happened!');
 }
 ```
